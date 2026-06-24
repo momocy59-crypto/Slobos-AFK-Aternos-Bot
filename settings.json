@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "master8game.aternos.me",
+    "port": 32807,
+    "version": "1.26.31.1",
     "try-creative": false
   },
   "position": {
